@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap');
+
+*{
+    font-family: Montserrat;
+    margin: 0;
+    padding: 0;
+}
+p{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+    font-size: 45px;
+    margin-top: 10px;
+}
+.para{
+    margin-top: 10px;
+    font-size: 18px;
+}
+.para span{
+    text-decoration: underline;
+}
