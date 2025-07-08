@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.email{
+    font-size: 16px;
+    margin-bottom: 6px;
+}
+input{
+    width: 310px;
+    padding: 3px;
+    border-radius: 4px;
+    outline: none;
+    margin-bottom: 12px;
+}
+.policy{
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+button{
+    padding: 10px 120px;
+    background-color: rgb(8, 101, 200);
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 22px;
+}
