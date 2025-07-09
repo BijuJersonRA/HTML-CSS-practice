@@ -1,0 +1,9 @@
+.container{
+    margin: 0;
+    display: inline-block;
+    border: 1px solid gray;
+    width: 250px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+

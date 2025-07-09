@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+p{
+    font-size: 30px;
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-bottom: 15px;
+}
+#pickup{
+    display: block;
+    font-size: 13px;
+    margin-left: 4px;
+    padding: 9px 11px;
+    width: 280px;
+    background-color: rgb(236, 236, 236);
+    border: none;
+    margin-bottom: 5px;
+}
+#destination{
+    display: block;
+    font-size: 13px;
+    margin-left: 4px;
+    padding: 9px 11px;
+    width: 280px;
+    background-color: rgb(236, 236, 236);
+    border: none;
+    margin-bottom: 15px;
+}
+.black{
+    font-size: 12px;
+    margin-left: 4px;
+    padding: 7px 15px;
+    background-color: black;
+    color: white;
+}
+.white{
+    margin-left: 12px;
+    padding: 7px 15px;
+    background-color: rgb(236, 236, 236);
+    border: none;
+}
