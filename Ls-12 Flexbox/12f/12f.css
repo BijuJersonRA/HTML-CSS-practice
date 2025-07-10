@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(122, 64, 170);
+    padding: 10px 20px;
+}
+p{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+input{
+    width: 950px;
+    padding: 6px 20px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+}
+button{
+    border: 1px solid rgb(212, 212, 212);
+    color: white;
+    background-color: rgb(122, 64, 170);
+    padding: 5px 10px;
+    border-radius: 4px;
+}
