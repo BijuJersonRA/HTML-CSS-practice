@@ -1,0 +1,13 @@
+body{
+    height: 3000px;
+    font-family: sans-serif;
+}
+.close-btn{
+    background-color: black;
+    color: white;
+    position: absolute;
+    padding: 5px 10px;
+    border-radius: 15px;
+    right: 10px;
+    top: 10px;
+}
